@@ -1,0 +1,133 @@
+# Space and Tech Engineering LLP
+
+> Made in India drone components
+
+We are a small team of hardware and firmware engineers making flight controllers, ESCs and GPS modules that Indian builders can actually get support for.
+
+## Aazmuth flight controller
+Category: Flight controllers
+Status: Available
+URL: https://www.spaceandtechengineerings.com/product.html?p=aazmuth-flight-controller
+
+Separate IMU modules connect over 20-pin Aazmuth Bus connectors, with each sensor on its own isolated bus. Built for defense, industry, agriculture, startups and universities.
+
+Highlights:
+- Isolated sensors, triple redundancy
+- Modular IMU boards on 20-pin Aazmuth Bus
+- For defense, industry, agriculture, startups and universities
+
+Specifications:
+- Microcontroller: STM32 H7, Cortex-M7
+- Clock speed: Up to 480 MHz
+- Memory: 2 MB flash, 1 MB RAM
+- Redundancy: 3 IMUs, 2 barometers
+- Size: 92 x 54 x 14.6 mm
+- Weight: 63 g
+
+Docs:
+- Overview: https://spaceandtech-engineerings.gitbook.io/space-and-tech-engineerings-docs/flight-controller/aazmuth/overview
+- Pinout: https://spaceandtech-engineerings.gitbook.io/space-and-tech-engineerings-docs/flight-controller/aazmuth/pinout-diagram
+- Calibration: https://spaceandtech-engineerings.gitbook.io/space-and-tech-engineerings-docs/flight-controller/aazmuth/basic-configuration-and-calibration
+- Sensors: https://spaceandtech-engineerings.gitbook.io/space-and-tech-engineerings-docs/flight-controller/aazmuth/sensor-integration-and-peripheral-hardware-connection
+- Dimensions: https://spaceandtech-engineerings.gitbook.io/space-and-tech-engineerings-docs/flight-controller/aazmuth/dimensions
+
+## Exelr8 FPV flight controller F7
+Category: Flight controllers
+Status: Available
+URL: https://www.spaceandtechengineerings.com/product.html?p=exelr8-fpv-flight-controller-f7
+
+Flight controller for FPV drones.
+
+## Skydrive AM32 60A 3-6S
+Category: ESCs
+Status: Available
+URL: https://www.spaceandtechengineerings.com/product.html?p=skydrive-am32-60a
+
+AM32 firmware ESC for 3-6S builds.
+
+Highlights:
+- AM32 firmware
+- 3-6S input
+
+Specifications:
+- Current: 60 A
+- Battery: 3-6S
+- Firmware: AM32
+
+## Skydrive AM32 40A 3-6S
+Category: ESCs
+Status: Available
+URL: https://www.spaceandtechengineerings.com/product.html?p=skydrive-am32-40a
+
+AM32 firmware ESC for 3-6S builds.
+
+Highlights:
+- AM32 firmware
+- 3-6S input
+
+Specifications:
+- Current: 40 A
+- Battery: 3-6S
+- Firmware: AM32
+
+## Skydrive 55A AM32 4-in-1
+Category: ESCs
+Status: Available
+URL: https://www.spaceandtechengineerings.com/product.html?p=skydrive-55a-am32-4-in-1
+
+Four ESCs on one board for FPV builds.
+
+Highlights:
+- AM32 firmware
+- 4-in-1 board
+
+Specifications:
+- Current: 55 A
+- Type: 4-in-1
+- Firmware: AM32
+
+## NAVSATE GPS for UAVs
+Category: GPS
+Status: Available
+URL: https://www.spaceandtechengineerings.com/product.html?p=navsate-gps-for-uavs
+
+A GPS module tuned for UAVs and tested on long flights.
+
+## NAVSATE mini for FPV drones
+Category: GPS
+Status: Available
+URL: https://www.spaceandtechengineerings.com/product.html?p=navsate-mini-gps
+
+Small GPS module for FPV builds.
+
+## Dev Kit 1
+Category: Development kits
+Status: Coming soon
+URL: https://www.spaceandtechengineerings.com/product.html?p=dev-kit-1
+
+Details will be added soon.
+
+## Dev Kit 2
+Category: Development kits
+Status: Coming soon
+URL: https://www.spaceandtechengineerings.com/product.html?p=dev-kit-2
+
+Details will be added soon.
+
+## TRX 5 km
+Category: Transmitters
+Status: Coming soon
+URL: https://www.spaceandtechengineerings.com/product.html?p=trx-5km
+
+Details will be added soon.
+
+## TRX 10 km
+Category: Transmitters
+Status: Coming soon
+URL: https://www.spaceandtechengineerings.com/product.html?p=trx-10km
+
+Details will be added soon.
+
+## Contact
+Phone: +91 96657 17903
+Email: arup@spaceandtech-engineerings.com

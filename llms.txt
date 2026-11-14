@@ -1,0 +1,31 @@
+# Space and Tech Engineering LLP
+
+> Made in India drone components. Flight controllers, AM32 ESCs and GPS modules for UAV and FPV builders. Designed in Mumbai and Nashik.
+
+## Products
+- [Aazmuth flight controller](https://www.spaceandtechengineerings.com/product.html?p=aazmuth-flight-controller): Modular, triple-redundant flight controller with isolated sensors.
+- [Exelr8 FPV flight controller F7](https://www.spaceandtechengineerings.com/product.html?p=exelr8-fpv-flight-controller-f7): F7 flight controller for FPV builds.
+- [Skydrive AM32 60A 3-6S](https://www.spaceandtechengineerings.com/product.html?p=skydrive-am32-60a): 60A AM32 speed controller for 3-6S batteries.
+- [Skydrive AM32 40A 3-6S](https://www.spaceandtechengineerings.com/product.html?p=skydrive-am32-40a): 40A AM32 speed controller for 3-6S batteries.
+- [Skydrive 55A AM32 4-in-1](https://www.spaceandtechengineerings.com/product.html?p=skydrive-55a-am32-4-in-1): 4-in-1 AM32 ESC for FPV drones.
+- [NAVSATE GPS for UAVs](https://www.spaceandtechengineerings.com/product.html?p=navsate-gps-for-uavs): GPS module tuned for UAVs.
+- [NAVSATE mini for FPV drones](https://www.spaceandtechengineerings.com/product.html?p=navsate-mini-gps): Compact GPS for FPV drones.
+
+## Coming soon
+- Dev Kit 1
+- Dev Kit 2
+- TRX 5 km
+- TRX 10 km
+
+## Pages
+- [Home](https://www.spaceandtechengineerings.com/)
+- [All products](https://www.spaceandtechengineerings.com/products.html)
+- [About](https://www.spaceandtechengineerings.com/about.html)
+- [Contact](https://www.spaceandtechengineerings.com/contact.html)
+- [Documentation](https://spaceandtech-engineerings.gitbook.io/space-and-tech-engineerings-docs)
+
+## Contact
+- Phone: +91 96657 17903
+- Email: arup@spaceandtech-engineerings.com
+- Registered office: Unit 37A, Patel Industrial Estate, Vivekananda Rd, Yadav Nagar, Dahisar East, Mumbai 400068
+- Product development centre: Vinayak Bungalow, Shradha Nagar, Suyog Colony, Parijat Nagar, Nashik 422005
